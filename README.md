@@ -1,7 +1,7 @@
-# GadExts
+# Helper Extensions
 Extensions 
 
-[![](https://jitpack.io/v/MostafaGad1911/GadExtensions.svg)](https://jitpack.io/#MostafaGad1911/GadExtensions)
+[![](https://jitpack.io/v/MostafaGad1911/HelperExtensions.svg)](https://jitpack.io/#MostafaGad1911/HelperExtensions)
 
 Combine some useful exts in One place
 
@@ -39,7 +39,7 @@ Combine some useful exts in One place
 
 ## Step 2 : Add the dependency
  ``` kotlin  
-        implementation 'com.github.MostafaGad1911:GadExtensions:1.1.0'
+        implementation 'com.github.MostafaGad1911:HelperExtensions:1.0.0'
         
 ```         
 
