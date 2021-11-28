@@ -1,0 +1,27 @@
+<resources>
+    <string name="en_allowed">Only English Text allowed</string>
+    <string name="ar_allowed">Only Arabic Text allowed</string>
+
+    // Days
+    <string name="saturday">Saturday</string>
+    <string name="sunday">Sunday</string>
+    <string name="monday">Monday</string>
+    <string name="tuesday">Tuesday</string>
+    <string name="wednesday">Wednesday</string>
+    <string name="thursday">Thursday</string>
+    <string name="friday">Friday</string>
+    // Moths
+    <string name="jan">Jan</string>
+    <string name="feb">Feb</string>
+    <string name="march">March</string>
+    <string name="apr">Apr</string>
+    <string name="may">May</string>
+    <string name="jun">Jun</string>
+    <string name="july">Jul</string>
+    <string name="august">Aug</string>
+    <string name="sept">Sep</string>
+    <string name="oct">Oct</string>
+    <string name="novmber">Nov</string>
+    <string name="december">Dec</string>
+
+</resources>
