@@ -42,12 +42,3 @@ Combine some useful exts in One place
         implementation 'com.github.MostafaGad1911:HelperExtensions:1.0.0'
         
 ```         
-
-
-
-	
-	
-	   
-"# GadExts" 
-"# GadExts" 
-"# HelperExtensions" 
