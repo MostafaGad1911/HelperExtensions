@@ -39,6 +39,6 @@ Combine some useful exts in One place
 
 ## Step 2 : Add the dependency
  ``` kotlin  
-        implementation 'com.github.MostafaGad1911:HelperExtensions:1.0.0'
+        implementation 'com.github.MostafaGad1911:HelperExtensions:1.1.0'
         
 ```         
